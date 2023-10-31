@@ -1,0 +1,2 @@
+{"role":"user","username":"rakib","email":"rakib@gmail.com","password":"$2y$10$zbFP8hiad26PUgAp2Ity9O3K4SpOmIQ4VO8ZrAJuhIfM4XGHQror6"}
+{"role":"admin","username":"hossain","email":"hossain@gmail.com","password":"$2y$10$o52NXpOsVU5ZNsWGDYkapu3oGuDA8dytTZ0\/jPwGVGncduZ3A6mpO"}
